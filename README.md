@@ -16,7 +16,7 @@ The Urlist has two distinct parts - the frontend (a single-page-application) and
 
 ## Current backend implementations
 
-[C#](https://github.com/the-urlist/backend-csharp)
+[C# / Azure Functions v2](https://github.com/the-urlist/backend-csharp)
 
 
 ### On the Web
