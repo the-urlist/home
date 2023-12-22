@@ -4,7 +4,7 @@
 
 ## What Is This?
 
-The Urlist is a production application that tests and proves application implementation scenarios for serverless applications running on Microsoft Azure. Read more about the project in the [announcement blog post](https://hackernoon.com/the-urlist-an-application-study-in-serverless-and-azure-13c2e3b07dd2).
+The Urlist is a production application that tests and proves application implementation scenarios for serverless applications running on Microsoft Azure. Read more about the project in the [announcement blog post](https://dev.to/azure/the-urlist-an-application-study-in-serverless-and-azure-2jk1).
 
 This organization serves as the home for different implementations of the various pieces of the project.
 
@@ -18,6 +18,9 @@ The Urlist has two distinct parts - the frontend (a single-page-application) and
 
 [C# / Azure Functions v2](https://github.com/the-urlist/backend-csharp)
 
+## Work in progress
+
+[Blazor / Static Web App](https://github.com/the-urlist/BlazorSWA)
 
 ### On the Web
 - [Product Hunt](https://www.producthunt.com/posts/the-urlist)
